@@ -16,6 +16,7 @@
 		837224B325556517003A7058 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 837224B125556517003A7058 /* LaunchScreen.storyboard */; };
 		837224BE25556517003A7058 /* TravelBookTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837224BD25556517003A7058 /* TravelBookTests.swift */; };
 		837224C925556517003A7058 /* TravelBookUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837224C825556517003A7058 /* TravelBookUITests.swift */; };
+		837224DA2555FF06003A7058 /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837224D92555FF06003A7058 /* ListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		837224C425556517003A7058 /* TravelBookUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TravelBookUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		837224C825556517003A7058 /* TravelBookUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelBookUITests.swift; sourceTree = "<group>"; };
 		837224CA25556517003A7058 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		837224D92555FF06003A7058 /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 				837224A3255564FD003A7058 /* AppDelegate.swift */,
 				837224A5255564FD003A7058 /* SceneDelegate.swift */,
 				837224A7255564FD003A7058 /* ViewController.swift */,
+				837224D92555FF06003A7058 /* ListViewController.swift */,
 				837224A9255564FD003A7058 /* Main.storyboard */,
 				837224AF25556516003A7058 /* Assets.xcassets */,
 				837224B125556517003A7058 /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				837224AE255564FD003A7058 /* TravelBook.xcdatamodeld in Sources */,
 				837224A8255564FD003A7058 /* ViewController.swift in Sources */,
 				837224A4255564FD003A7058 /* AppDelegate.swift in Sources */,
+				837224DA2555FF06003A7058 /* ListViewController.swift in Sources */,
 				837224A6255564FD003A7058 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
